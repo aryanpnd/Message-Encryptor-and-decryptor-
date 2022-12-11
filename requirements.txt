@@ -1,0 +1,6 @@
+customtkinter
+cryptography
+
+:-
+pip install cryptography
+pip install customtkinter
